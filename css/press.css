@@ -1,6 +1,7 @@
 .pressDiv1 button {
   margin: 5px;
 }
+
 .pressDiv1 ul li a {
   display: inline-block;
   margin: 5px;
@@ -8,6 +9,18 @@
   padding: 15px;
   width: 150px;
 }
+
+.pressDiv1 ul li:first-child {
+  margin-left: 5px;
+}
+
+.pressDiv1 ul li {
+  float: left;
+  width: 31%;
+  margin: 5px;
+  min-height: 275px;
+}
+
 .pressDiv1 li {
   padding: 20px;
   text-align: center;
