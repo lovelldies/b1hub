@@ -1,2 +1,2 @@
 # b1hub
-b1hub website files
+The b1hub website has a horrible CMS, hence using github to host code snippets.
