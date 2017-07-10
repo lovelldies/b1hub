@@ -15,8 +15,6 @@
 }
 
 .pressDiv1 ul li {
-  float: left;
-  width: 31%;
   margin: 5px;
   min-height: 275px;
 }
