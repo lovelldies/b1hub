@@ -2,6 +2,10 @@
   margin: 5px;
 }
 
+.pressDiv1 img {
+  max-width: : 150px;
+}
+
 .pressDiv1 ul li a {
   display: inline-block;
   margin: 5px;
