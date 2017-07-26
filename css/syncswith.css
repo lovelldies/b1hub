@@ -1,0 +1,17 @@
+.accordion img {
+  height: 140px;
+  width: auto;
+}
+
+.accordion p {
+  font-size: 1.4rem;
+  margin: 20px 25%;
+}
+
+.accordion-inner {
+  margin-bottom: 50px;
+}
+
+.syncsLight ul li {
+  height: 300px;
+}
