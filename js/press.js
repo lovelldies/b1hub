@@ -1,5 +1,30 @@
 var pressdata = [
   {
+    "img" : "https://lovelldies.github.io/b1hub/images/press/pc-world.png",
+    "title" : "B.One Hub Australian Launch: Everything You Need To Know",
+    "readmore" : "https://www.pcworld.idg.com.au/article/626947/b-one-hub-australian-launch-everything-need-know/"
+  },
+  {
+    "img" : "https://lovelldies.github.io/b1hub/images/press/lifehacker.png",
+    "title" : "The B.One Hub Wants To Be Home Automation's Universal Translator",
+    "readmore" : "https://www.lifehacker.com.au/2017/09/the-b-one-hub-wants-to-be-home-automations-universal-translator/"
+  },
+  {
+    "img" : "https://lovelldies.github.io/b1hub/images/press/zdnet.png",
+    "title" : "Adelaide's Accumulus launches B.One Hub smart home monitor",
+    "readmore" : "http://www.zdnet.com/article/adelaides-accumulus-launches-b-one-hub-smart-home-play/"
+  },
+  {
+    "img" : "https://lovelldies.github.io/b1hub/images/press/itwire.png",
+    "title" : "B.One Hub: not just remote control, but real home automation",
+    "readmore" : "https://www.itwire.com/home-it/79792-b-one-hub-not-just-remote-control,-but-real-home-automation.html"
+  },
+  {
+    "img" : "https://lovelldies.github.io/b1hub/images/press/ecovoice.jpg",
+    "title" : "Most sophisticated home automation smart hub, B.One Hub launched",
+    "readmore" : "http://www.ecovoice.com.au/most-sophisticated-home-automation-smart-hub-b-one-hub-launched/"
+  },
+  {
     "img" : "https://lovelldies.github.io/b1hub/images/press/choice.png",
     "title" : "B.One Hub home automation controller review",
     "readmore" : "https://www.choice.com.au/electronics-and-technology/gadgets/tech-gadgets/articles/b-one-hub-home-automation-review"
