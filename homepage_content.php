@@ -29,7 +29,7 @@
           </div>
         </div>
         <div class="col-sm-7 col-sm-pull-0 col-md-7 col-md-pull-5 wow fadeInRight animated">
-          <img class="img-responsive" src="chatbot-homepage.png" alt="ChatBot">
+          <img class="img-responsive" src="https://raw.githubusercontent.com/lovelldies/b1hub/cb2dd527bc68854689cf4f79cb8f77a9f22f2ac8/images/chatbot/chatbot-homepage.png" alt="ChatBot">
         </div>
       </div>
     </div>
