@@ -2,17 +2,16 @@
   <div class="home-products">
     <?php include_once 'homepage_keyfeatures.html'; ?>
 
-  
     <div class="row row-fluid bg-light">
-      <div class="mid-arrow-down mid-arrow-down-light"></div>
+      <div class="mid-arrow-down mid-arrow-down-white"></div>
       <div class="page_width">
-        <div class="col-sm-5 col-sm-push-0 col-md-5 col-md-push-7 col-md-offset-0 wow fadeInLeft animated">
+        <div class="col-sm-5 col-md-5 col-md-offset-1 wow fadeInLeft animated">
           <div class="text-content">
             <h2 class="large-text">Smart got Smarter with "Actions"</h2>
             <p>B.One Hub "Actions" enables you to control multiple devices with one single touch or voice command. With "Actions", you can customize and control multiple events at your Home. </p>
           </div>
         </div>
-        <div class="col-sm-7 col-sm-pull-0 col-md-7 col-md-pull-5 wow fadeInRight animated">
+        <div class="col-sm-6 col-md-6 wow fadeInRight animated">
           <img class="img-responsive" src="catalog/view/theme/b1hub/stylesheet/images/home/img-smarter.png" alt="img-smarter">
         </div>
       </div>
@@ -20,13 +19,30 @@
 
     
     <div class="row row-fluid" id="link1">
-      <div class="mid-arrow-down mid-arrow-down-white"></div>
+      <div class="mid-arrow-down mid-arrow-down-light"></div>
       <div class="page_width">
-        <div class="col-sm-5 col-md-5 col-md-offset-1 wow fadeInLeft animated">
+        <div class="col-sm-5 col-sm-push-0 col-md-5 col-md-push-7 col-md-offset-0 wow fadeInLeft animated">
           <div class="text-content">
             <h2 class="large-text m-b-5">Talk to Me!</h2>
             <h4 class="m-b-20">Activate with VoiceAct<sup>TM</sup></h4>
             <p> B.One offers a voice control system that allows you to speak to your Home and Home will respond and act to your commands. To accomplish this, we leverage the power of Amazon Echo along with our own cloud based VoiceAct<sup>TM</sup> platform. Imagine, now you can just speak to your Home to switch on lights or play your favorite music and it will be done.</p>
+          </div>
+        </div>
+        <div class="col-sm-7 col-sm-pull-0 col-md-7 col-md-pull-5 wow fadeInRight animated">
+          <img class="img-responsive" src="chatbot-homepage.png" alt="ChatBot">
+        </div>
+      </div>
+    </div>
+
+
+    <div class="row row-fluid bg-light" id="link1">
+      <div class="mid-arrow-down mid-arrow-down-white"></div>
+      <div class="page_width">
+        <div class="col-sm-5 col-md-5 col-md-offset-1 wow fadeInLeft animated">
+          <div class="text-content">
+            <h2 class="large-text m-b-5">Chat with me!</h2>
+            <h4 class="m-b-20">ChatBot-powered Home Control</h4>
+            <p>Coming soon, ChatBots powered by your favourite messenger apps that you can use to view and manage all devices connected to your B.One Hub. They are an intuitive and efficient way to control your smart home without having to move from where you are at any given point in time.</p>
           </div>
         </div>
         <div class="col-sm-6 col-md-6 wow fadeInRight animated">
@@ -36,7 +52,7 @@
     </div>
 
 
-    <div class="row row-fluid bg-light">
+    <div class="row row-fluid">
     <div class="mid-arrow-down mid-arrow-down-light"></div>
       <div class="page_width">
         <div class="col-sm-5 col-sm-push-0 col-md-5 col-md-push-7 col-md-offset-0 wow fadeInLeft animated">
@@ -52,7 +68,7 @@
     </div>  
   
 
-    <div class="row row-fluid">
+    <div class="row row-fluid bg-light">
       <div class="mid-arrow-down mid-arrow-down-white"></div>
       <div class="page_width">
         <div class="col-sm-5 col-md-5 col-md-offset-1 wow fadeInLeft animated">
@@ -69,7 +85,7 @@
     </div>
   
 
-    <div class="row row-fluid bg-light" id="link2" style="position:relative;">
+    <div class="row row-fluid" id="link2" style="position:relative;">
       <div class="mid-arrow-down mid-arrow-down-light"></div>
       <div class="page_width">
         <div class="col-sm-5 col-sm-push-0 col-md-5 col-md-push-7 col-md-offset-0 wow fadeInLeft animated">
@@ -87,7 +103,7 @@
     </div>
     
   
-    <div class="row row-fluid">
+    <div class="row row-fluid bg-light">
       <div class="mid-arrow-down mid-arrow-down-white"></div>
       <div class="page_width">
         <div class="col-sm-5 col-sm-push-0 col-md-5 col-md-push-0 col-md-offset-1 wow fadeInLeft animated">
@@ -105,7 +121,7 @@
 
   </div><!-- /home products -->  
   
-  <div class="bg-light">
+  <div>
     <div class="page_width">
       <div class="cont_four"> 
         <img src="catalog/view/theme/b1hub/stylesheet/images/press-medias.png" alt="press-medias-img">
