@@ -1,3 +1,12 @@
+<style>
+#chatbot-messengers {
+  margin-bottom: 20px;
+}
+#chatbot-messengers img {
+  width: 50px;
+  margin: 10px;
+}
+</style>
 <div>
   <div class="home-products">
     <?php include_once 'homepage_keyfeatures.html'; ?>
@@ -25,11 +34,11 @@
           <div class="text-content">
             <h2 class="large-text m-b-5">Talk to Me!</h2>
             <h4 class="m-b-20">Activate with VoiceAct<sup>TM</sup></h4>
-            <p> B.One offers a voice control system that allows you to speak to your Home and Home will respond and act to your commands. To accomplish this, we leverage the power of Amazon Echo along with our own cloud based VoiceAct<sup>TM</sup> platform. Imagine, now you can just speak to your Home to switch on lights or play your favorite music and it will be done.</p>
+            <p>B.One offers a voice control system that allows you to speak to your Home and Home will respond and act to your commands. To accomplish this, we leverage the Amazon's Alexa and Google Assistant along with our own cloud based VoiceAct<sup>TM</sup> platform. Imagine, now you can just speak to your Home to switch on lights or play your favourite music and it will be done.</p>
           </div>
         </div>
         <div class="col-sm-7 col-sm-pull-0 col-md-7 col-md-pull-5 wow fadeInRight animated">
-          <img class="img-responsive" src="catalog/view/theme/b1hub/stylesheet/images/home/img-talk-to-you.png" alt="img-talk-to-you">
+          <img class="img-responsive" src="http://www.b1hub.com/images/talk-to-me-banner-1.png" alt="img-talk-to-you">
         </div>
       </div>
     </div>
@@ -43,10 +52,13 @@
             <h2 class="large-text m-b-5">Chat with me!</h2>
             <h4 class="m-b-20">ChatBot-powered Home Control</h4>
             <p>Coming soon, ChatBots powered by your favourite messenger apps that you can use to view and manage all devices connected to your B.One Hub. They are an intuitive and efficient way to control your smart home without having to move from where you are at any given point in time.</p>
+            <div id="chatbot-messengers">
+              <img src="https://raw.githubusercontent.com/lovelldies/b1hub/master/images/facebook-messenger.png" alt="Facebook Messenger"> <img src="https://raw.githubusercontent.com/lovelldies/b1hub/master/images/line-messenger.png" alt="Line Messenger">
+            </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-6 wow fadeInRight animated">
-          <img class="img-responsive" src="https://raw.githubusercontent.com/lovelldies/b1hub/f53bb3438bde17bb7b8b179adbbd01c7ff215f42/images/chatbot/chatbot-homepage.png" alt="ChatBot">
+          <img style="margin-top:-55px;" class="img-responsive" src="https://raw.githubusercontent.com/lovelldies/b1hub/4f8d4987ebbe52d7ce478612647fa792d1cfecdc/images/chatbot/ChatBot.png" alt="ChatBot">
         </div>
       </div>
     </div>
